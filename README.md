@@ -1,4 +1,4 @@
-# Foobar
+# React Template-TS
 
 Plantilla to accelerate the development of your project, assembled with:
 
